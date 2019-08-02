@@ -2,15 +2,19 @@ html, body {
   overflow: hidden;
 }
 
+.navbar-nav a {
+    font-weight: 525;
+}
+
 .masthead {
   height: 100vh;
   min-height: 500px;
-  background-image: url("assets/wtc.jpg");
+  background-image: url("../assets/wtc.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 nav li {
-        padding-right: 50px
+    padding-right: 50px
 }
