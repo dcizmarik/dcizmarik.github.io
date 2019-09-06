@@ -9,7 +9,7 @@ html, body {
 .masthead {
   height: 100vh;
   min-height: 500px;
-  background-image: url("../assets/wtc.jpg");
+  background-image: url("https://dcizmarik.s3.us-east-2.amazonaws.com/thumbnails/coverphoto-wtc.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
