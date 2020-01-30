@@ -19,6 +19,20 @@ nav li {
     margin-right: auto;
 }
 
+.container video {
+    max-width:100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container iframe {
+    max-width:100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .container p {
     text-align: justify;
     padding-bottom: 20px;
